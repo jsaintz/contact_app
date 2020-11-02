@@ -26,6 +26,6 @@ This project was developed with Flutter and Dart.
 
 ## What I used
 
-<!-- - [http](https://pub.dev/packages/http) for request.
-- [share](https://pub.dev/packages/share/install) for share gifs.
-- [transparent_image](https://pub.dev/packages/transparent_image) for simple transparent image. -->
+- [sqflite](https://pub.dev/packages/sqflite) for Data Base.
+- [url_launcher](https://pub.dev/packages/url_launcher) for launching a URL in the mobile platform.
+- [image_picker](https://pub.dev/packages/image_picker) for iOS and Android for picking images from the image library.
